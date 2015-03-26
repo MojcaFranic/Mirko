@@ -1,0 +1,35 @@
+.logo {
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+.navbar-color {
+    background-color: #ff0099;
+}
+    
+.navbar a {
+    color: black;
+}
+
+.navbar li {
+    color: black;
+}
+
+.navbar-footer {
+    background-color: #ff6699;
+    
+}
+
+.body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: #ffcccc;
+}
+
+.h3 {
+    text-align: center;
+}
