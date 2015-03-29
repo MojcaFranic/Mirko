@@ -22,7 +22,7 @@
     
 }
 
-.body {
+body {
     background-color: black;
 }
 
@@ -30,6 +30,51 @@
     background-color: #ffcccc;
 }
 
-.h3 {
+h1 {
+    color: white;
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.nar {
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.navbar-head {
+    margin-top: 15px;
+}
+
+.navbar-ul {
+    margin-top: 15px;
+}
+
+.img-position {
+    content-align: center;
+}
+
+input {
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 70%;
+}
+
+.table {
+    background-color: #ff0099;
+    margin-right: 0px;
+    border-color: black;
 }
